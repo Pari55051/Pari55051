@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parimoksha</h1>
-<h3 align="center">A Tech Enthusiast Currently Interested in Robotics</h3>
+<h3 align="center">A Tech Enthusiast (Current Interest: Robotics)</h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
