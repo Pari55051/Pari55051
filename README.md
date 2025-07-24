@@ -51,6 +51,6 @@
 
 
 
-[![Add yourself to map](https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1)](https://mapsterpiece.vercel.app/api/logVisit)
+[![Add yourself to map](https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1)](https://mapsterpiece.vercel.app/api/logVisit?redirect=https://github.com/pari55051)
 
 <small>To get your own Mapsterpiece, visit my repo: <a href="https://github.com/pari55051/mapsterpiece">Mapsterpiece</a></small>
