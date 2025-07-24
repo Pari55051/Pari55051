@@ -30,3 +30,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pari55051&show_icons=true&locale=en&layout=compact" alt="pari55051" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pari55051&show_icons=true&locale=en" alt="pari55051" /></p>
+
+
+<h3>My Mapsterpiece</h3>
+<p>map of all the countires from where people have visited my profile</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://mapsterpiece.vercel.app/api/getMapSVG?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://mapsterpiece.vercel.app/api/getMapSVG?theme=light">
+  <img alt="World Map of Visitors" src="https://mapsterpiece.vercel.app/api/getMapSVG?theme=dark">
+</picture>
+
+<img src="https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1&link=https%3A%2F%2Fmapsterpiece.vercel.app%2Fapi%2FlogVisit" alt="Add to Map Button">
+
+<small>To get your own Mapsterpiece, visit my repo: <a href="https://github.com/pari55051/mapsterpiece">Mapsterpiece</a></small>
