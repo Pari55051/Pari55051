@@ -41,6 +41,8 @@
   <img alt="World Map of Visitors" src="https://mapsterpiece.vercel.app/api/getMapSVG?theme=dark">
 </picture>
 
-<img src="https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1&link=https%3A%2F%2Fmapsterpiece.vercel.app%2Fapi%2FlogVisit" alt="Add to Map Button">
+<!-- <img src="https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1&link=https%3A%2F%2Fmapsterpiece.vercel.app%2Fapi%2FlogVisit" alt="Add to Map Button"> -->
+
+[![Add yourself to map](https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1)](https://mapsterpiece.vercel.app/api/logVisit)
 
 <small>To get your own Mapsterpiece, visit my repo: <a href="https://github.com/pari55051/mapsterpiece">Mapsterpiece</a></small>
