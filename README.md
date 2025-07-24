@@ -43,7 +43,12 @@
 
 <!-- <img src="https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1&link=https%3A%2F%2Fmapsterpiece.vercel.app%2Fapi%2FlogVisit" alt="Add to Map Button"> -->
 <br>
-[![Map Stats](https://img.shields.io/endpoint?url=https://mapsterpiece.vercel.app/api/badge&style=for-the-badge&labelColor=1e1e1e&color=3ba55c)](https://mapsterpiece.vercel.app)
+<!-- Light mode -->
+<!-- [![Map Stats](https://img.shields.io/endpoint?url=https://mapsterpiece.vercel.app/api/badge&style=for-the-badge&labelColor=1089d1&color=2c9e13#gh-light-mode-only)](https://mapsterpiece.vercel.app/api/getMapSVG?theme=light) -->
+
+<!-- Dark mode -->
+[![Map Stats](https://img.shields.io/endpoint?url=https://mapsterpiece.vercel.app/api/badge&style=for-the-badge&labelColor=1e1e1e&color=3ba55c)](https://mapsterpiece.vercel.app/api/getMapSVG?theme=light)
+
 
 
 [![Add yourself to map](https://img.shields.io/badge/Get%20Added%20on%20the%20Map-Click%20Here-2c9e13?style=for-the-badge&labelColor=1089d1)](https://mapsterpiece.vercel.app/api/logVisit)
